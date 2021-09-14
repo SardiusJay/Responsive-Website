@@ -1,0 +1,21 @@
+#collapsibleNavbar{
+    padding-left: 35%;
+}
+
+.im {
+    background: url(../Image/BackgroundJay.png.jpg);
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+}
+body {
+font: size 29px;;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: blue;
+}
+h2 {
+    font-size: 89%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+
+}
